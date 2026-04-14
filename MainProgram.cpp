@@ -252,7 +252,7 @@ public:
 
         // YOUR CODE HERE
 
-        os <<"Student(" <<s.name <<", ID; "<< s.id<<" , GPA: "<<s.gpa<<")";
+        os <<"Student(" <<s.name <<", ID; "<< s.id<<", GPA: "<<s.gpa<<")";
 
         return os;
 
@@ -377,4 +377,3 @@ int main() {
     return 0;
 
 }
- 
