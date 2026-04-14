@@ -72,7 +72,7 @@ public:
 
         // YOUR CODE HERE
 
-        name="unknown";
+        name="Unknown";
 
         id=0;
 
